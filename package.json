@@ -1,0 +1,14 @@
+{
+  "name": "cwi-start",
+  "version": "1.0.0",
+  "description": "Alguns códigos feitos durante o processo seletivo da cwi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
